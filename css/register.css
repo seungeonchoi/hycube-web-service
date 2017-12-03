@@ -1,0 +1,12 @@
+.error {
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    clear: left;
+    display: none;
+    width:70%;
+    margin-left:120px;
+}
+.form-control{
+  width:75%;
+}
